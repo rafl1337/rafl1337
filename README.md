@@ -1,5 +1,4 @@
-### Hi there, we are SRT | Developing community | Remember to join our [Discord] 👋
-
+### Hi there! Im rafl1337 - discord.gg/srt
 [![Discord](https://img.shields.io/endpoint?label=Discord&logo=Discord&url=jokurandomlink)](https://discord.gg/b8kNQqKTEF)
 
 ## We are a developer community we make programs for diffrent uses...
