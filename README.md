@@ -47,7 +47,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SRT | Developing's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srtdeveloping&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="rafl1337" src="https://github-readme-stats.vercel.app/api?username=srtdeveloping&show_icons=true&theme=tokyonight" />
 
 <br/>
 <br/>
