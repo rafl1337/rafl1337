@@ -63,10 +63,3 @@
 
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-- [Webhook spammer](https://github.com/SRTDeveloping/SRTwebhook)
-<!--END_SECTION:activity-->
-
-
-[website]: https://discord.gg/b8kNQqKTEF
-[discord]: https://discord.gg/b8kNQqKTEF
