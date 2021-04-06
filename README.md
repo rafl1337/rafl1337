@@ -41,13 +41,7 @@
 <br/>
 <br/>
 
-### 📕 Lastest releases
 
-<!-- BLOG-POST-LIST:START -->
-- [Webhook spammer](https://github.com/SRTDeveloping/SRTwebhook)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More releases...](https://discord.gg/b8kNQqKTEF)
 
 ---
 
